@@ -10,7 +10,3 @@
 * 🎓 I've worked on 2 award winning apps, one with over 1 million downloads
 * 🌐 You can see some of my projects on [my upwork](https://www.upwork.com/freelancers/~015773f64f7207d879)
 * 📺 Connect with me on [LinkedIn](https://www.linkedin.com/in/gabriel-higareda-70971259/)
-
-<p align="left">
-  <a href="https://www.upwork.com/freelancers/~015773f64f7207d879"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
