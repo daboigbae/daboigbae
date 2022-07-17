@@ -1,15 +1,14 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h3 align="center">Hey there, I'm <a href="https://twitter.com/daboigbae">gabe</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
+<h3 align="center">Hey there, I'm <a href="https://twitter.com/daboigbae">gabe</a> <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://img.seadn.io/files/68a331652d4986e1ce5428fc2db6f66a.png?fit=max&w=600)" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
 ## 📖 About me
 
 * 💻 I'm a senior react native engineer
-* 🎨 I'm a self-taught UI designer
-* 📱 I've launched over 5 mobile apps to the app store and play store
-* 🎓 I've worked on 2 award winning apps 
+* 📱 I've launched 5 mobile apps to the app store and play store
+* 🎓 I've worked on 2 award winning apps, one with over 1 million downloads
 * 🌐 You can see some of my projects on [my upwork](https://www.upwork.com/freelancers/~015773f64f7207d879)
-* 📺 Check out my portfolio on UpWork(https://www.youtube.com/c/DevProTips)
+* 📺 Connect with me on LinkedIn([https://www.youtube.com/c/DevProTips](https://www.linkedin.com/services/page/9945ba3173966aa8ab/))
 
 <p align="left">
   <a href="https://freshidea.com/jonah/"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
