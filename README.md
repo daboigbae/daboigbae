@@ -15,7 +15,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=daboigbae&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=daboigbae&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=daboigbae&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ### 😂 A meme a day keeps the doctor away
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
