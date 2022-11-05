@@ -4,7 +4,7 @@
 <h3 align="center">Hey there, I'm gabe <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
 # 💫 About Me:
-💻 I'm a mobile app engineer<br>🎓 I'm currently working on [Munchkin - a react native component library that uses TailWind CSS](https://munchkinreact.app/)<br>🌟 Visit my [website](https://digitalartdealers.net/) to learn more<br>
+💻 I'm a mobile app engineer<br>🎓 I'm currently working on [Munchkin - a react native component library that uses TailWind CSS](https://munchkinreact.app/)<br>🌟 Visit my [website](https://digitalartdealers.net/) to learn more about my experience<br>
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@daboigbae) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-higareda-70971259/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/daboigbae) 
