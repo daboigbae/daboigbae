@@ -5,7 +5,7 @@
 
 # 💫 About Me:
 💻 I'm a mobile app engineer<br>🎓 Check out my react native component library [Munchkin - uses TailWind CSS](https://munchkinreact.app/)<br/>
-⭐ [Star my react native template repo](https://github.com/daboigbae/react-native-template)
+⭐⭐️⭐️⭐️⭐️ [Star my react native template repo](https://github.com/daboigbae/react-native-template)
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@daboigbae) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-higareda-70971259/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/daboigbae) 
