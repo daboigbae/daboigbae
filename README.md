@@ -2,15 +2,15 @@
   <a href="#"><img width="175px" height="auto" src="https://img.seadn.io/files/68a331652d4986e1ce5428fc2db6f66a.png?fit=max&w=600" /></a>
 </p>
 <h3 align="center">Hey there, I'm gabe <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>
-  <p>"⭐⭐⭐⭐⭐ "Gabe was incredible. He went above and beyond. Looking forward to working with him more!"</p>
 </h3>
 
 <p align="center">
   ⭐⭐️⭐️⭐️⭐️<a href="https://github.com/daboigbae/react-native-template">Star my react native template repo</a>⭐⭐️⭐️⭐️⭐️
 </p>
 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@daboigbae) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-higareda-70971259/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/daboigbae) 
+# What peoeple have said about working with me
+  <p>"⭐⭐⭐⭐⭐ "Gabe was incredible. He went above and beyond. Looking forward to working with him more!"</p>
+  <p>"⭐⭐⭐⭐⭐ "Gabe has been an MVP candidate from day 1 at Journey!He's an exceptionally talented engineer, a natural leader, and equally important - a geniunely nice and fun guy"</p>
   
 
 # 💻 Tech Stack:
@@ -19,6 +19,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=daboigbae&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=daboigbae&theme=radical&hide_border=false)<br/>
 
+# Follow Me
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@daboigbae) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-higareda-70971259/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/daboigbae) 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=daboigbae&icon=0&color=0)](https://visitcount.itsvg.in)
