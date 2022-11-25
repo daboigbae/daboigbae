@@ -1,7 +1,7 @@
 <p align="center">
   <a href="#"><img width="175px" height="auto" src="https://img.seadn.io/files/68a331652d4986e1ce5428fc2db6f66a.png?fit=max&w=600" /></a>
 </p>
-<h3 align="center">Hey there, I'm gabe 🫡<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>
+<h3 align="center">Hey there, I'm gabe 🫡🙏<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>
 </h3>
 
 <p align="center">
