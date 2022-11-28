@@ -9,8 +9,8 @@
 </p>
 
 # What peoeple have said about working with me
-  <p>"⭐⭐⭐⭐⭐ "Gabe was incredible. He went above and beyond. Looking forward to working with him more!"</p>
-  <p>"⭐⭐⭐⭐⭐ "Gabe has been an MVP candidate from day 1 at Journey!He's an exceptionally talented engineer, a natural leader, and equally important - a geniunely nice and fun guy"</p>
+  <p>⭐⭐⭐⭐⭐ "Gabe was incredible. He went above and beyond. Looking forward to working with him more!"</p>
+  <p>⭐⭐⭐⭐⭐ "Gabe has been an MVP candidate from day 1 at Journey! He's an exceptionally talented engineer, a natural leader, and equally important - a geniunely nice and fun guy"</p>
   
 
 # 💻 My Tech Stack:
