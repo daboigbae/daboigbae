@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  ⭐<a href="https://github.com/daboigbae/react-native-template"> Star my react native template </a>⭐
+  ⭐<a href="https://github.com/daboigbae/react-native-template">Star my react native template</a>⭐
 </p>
 
 # What peoeple have said about working with me
