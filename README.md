@@ -8,7 +8,7 @@
   ⭐<a href="https://github.com/daboigbae/react-native-template"> Star my react native template </a>⭐
 </p>
 
-# What peoeple have said about working with me
+# What people have said about my work
   <p>⭐⭐⭐⭐⭐ "Gabe was incredible. He went above and beyond. Looking forward to working with him more!"</p>
   <p>⭐⭐⭐⭐⭐ "Gabe has been an MVP candidate from day 1 at Journey! He's an exceptionally talented engineer, a natural leader, and equally important - a geniunely nice and fun guy"</p>
   
