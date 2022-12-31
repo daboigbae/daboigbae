@@ -6,6 +6,8 @@
 
 <p align="center">
   ⭐<a href="https://github.com/daboigbae/react-native-template"> Star my react native template</a>⭐
+</p>
+<p align="center">
   🗞️<a href="https://digitalartdealers.net/how-to-become-a-freelancer/"> Sign up for my newsletter</a>🗞️
 </p>
 
