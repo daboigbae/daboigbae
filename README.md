@@ -5,10 +5,10 @@
 </h3>
 
 <p align="center">
-  ⭐<a href="https://github.com/daboigbae/react-native-template"> Star my react native template</a>⭐
+  ⭐<a href="https://github.com/daboigbae/react-native-template"> Star my react native template </a>⭐
 </p>
 <p align="center">
-  🗞️<a href="https://digitalartdealers.net/how-to-become-a-freelancer/"> Sign up for my newsletter</a>🗞️
+  🗞️<a href="https://digitalartdealers.net/how-to-become-a-freelancer/"> Sign up for my newsletter </a>🗞️
 </p>
 
 # What people have said about working with me 
