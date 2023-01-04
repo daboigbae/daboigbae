@@ -5,9 +5,8 @@
 </h3>
 
 <p align="center">
-  ⭐<a href="https://github.com/daboigbae/react-native-template"> Star my react native template </a>⭐
-</p>
-<p align="center">
+  🐦<a href="https://github.com/daboigbae"> Talk to me on Twitter </a>🐦<br/>
+  ⭐<a href="https://github.com/daboigbae/react-native-template"> Star my react native template </a>⭐<br/>
   🗞️<a href="https://digitalartdealers.net/how-to-become-a-freelancer/"> Sign up for my newsletter </a>🗞️
 </p>
 
