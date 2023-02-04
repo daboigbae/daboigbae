@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  🐦<a href="https://twitter.com/daboigbae"> Talk to me on Twitter </a>🐦<br/>
+  🐦<a href="https://twitter.com/daboigbae"> Follow me on Twitter </a>🐦<br/>
   ⭐<a href="https://github.com/daboigbae/react-native-template"> Star my react native template </a>⭐<br/>
 </p>
 
