@@ -7,6 +7,8 @@
 <p align="center">
   🐦<a href="https://twitter.com/daboigbae"> Follow me on Twitter </a>🐦<br/>
   ⭐<a href="https://github.com/daboigbae/react-native-template"> Star my react native template </a>⭐<br/>
+  📝<a href="https://www.notion.so/Coding-Principles-759ce23066c84cd5a04a95acfb019dff"> View my react coding principles </a>📝<br/>
+
 </p>
 
 # What people have said about working with me 
