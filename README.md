@@ -12,6 +12,7 @@
 
 # What people have said about working with me 
   <p>⭐⭐⭐⭐⭐ "Gabe was incredible. He went above and beyond. Looking forward to working with him more!"</p>
+  <p>⭐⭐⭐⭐⭐ "Have hired Gabe multiple times for cross platform app work (ios and android) and each time has been terrific. He is good at estimating the work, he sticks to time tables, is responsive to client requests and understands both the technical requirements and the user interface requirements well"</p>
   <p>⭐⭐⭐⭐⭐ "Gabe has been an MVP candidate from day 1 at Journey! He's an exceptionally talented engineer, a natural leader, and equally important - a geniunely nice and fun guy"</p>
   
 
