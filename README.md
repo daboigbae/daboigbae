@@ -5,8 +5,7 @@
 </h3>
 
 <p align="center">
-  📱<a href="https://digitalartdealers.net/bingo/">Get Bingo for AI-powered proposal writing!</a>📱<br/>
-  📱<a href="https://digitalartdealers.net/bingo/"> Ready to write winning proposals with ease? Get Bingo, the AI-powered proposal generator!</a><br/>
+  📱<a href="https://digitalartdealers.net/bingo/">Download my app Bingo for AI-powered proposal writing!</a>📱<br/>
   👩‍💻<a href="https://www.upwork.com/freelancers/~015773f64f7207d879"> Visit my UpWork profile to learn more about me</a>👩‍💻<br/>
   🐦<a href="https://twitter.com/daboigbae"> Follow me on Twitter </a>🐦<br/>
   ⭐<a href="https://github.com/daboigbae/react-native-template"> Star my react native template </a>⭐<br/>
