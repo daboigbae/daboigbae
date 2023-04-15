@@ -4,6 +4,8 @@
 <h3 align="center">Hi there, I'm gbae <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>
 </h3>
 
+wow
+
 <p align="center">
   📱<a href="https://digitalartdealers.net/bingo/">Download my app Bingo for AI-powered proposal writing!</a>📱<br/>
   👩‍💻<a href="https://www.upwork.com/freelancers/~015773f64f7207d879"> Visit my UpWork profile to learn more about me</a>👩‍💻<br/>
