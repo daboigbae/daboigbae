@@ -5,7 +5,6 @@
 </h3>
 
 <p align="center">
-  
   📱<a href="https://digitalartdealers.net/bingo/">Download my app Bingo for AI-powered proposal writing!</a>📱<br/>
   👩‍💻<a href="https://www.upwork.com/freelancers/~015773f64f7207d879"> 1800+ hours on UpWork</a>👩‍💻<br/>
   🐦<a href="https://twitter.com/daboigbae"> Follow me on Twitter </a>🐦<br/>
