@@ -24,11 +24,11 @@
 ![](https://github-readme-stats.vercel.app/api?username=daboigbae&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=daboigbae&theme=radical&hide_border=false)<br/>
 
-# My Portoflio
+# My Portfolio
 <p align="center">
-  <a href="https://123helpapp.com/"><img src="https://github.com/daboigbae/images/blob/main/FqkzPgzaEAAzTph.jpeg" width="70%" /></a><br/>
-  <a href="https://yourplayerspal.com/"><img src="https://github.com/daboigbae/images/blob/main/FqkzPg0aYAMTxNx.jpeg" width="70%" /> </a><br/>
-  <a href="https://sopworks.com/"><img src="https://github.com/daboigbae/images/blob/main/FqkzPg0aYAAXu2J.jpeg" width="70%" /></a><br/>
+  <a href="https://123helpapp.com/"><img src="https://github.com/daboigbae/images/blob/main/FqkzPgzaEAAzTph.jpeg" width="40%" /></a><br/>
+  <a href="https://yourplayerspal.com/"><img src="https://github.com/daboigbae/images/blob/main/FqkzPg0aYAMTxNx.jpeg" width="40%" /> </a><br/>
+  <a href="https://sopworks.com/"><img src="https://github.com/daboigbae/images/blob/main/FqkzPg0aYAAXu2J.jpeg" width="40%" /></a><br/>
 </p> 
 
 ---
