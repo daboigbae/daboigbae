@@ -25,6 +25,16 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=daboigbae&theme=radical&hide_border=false)<br/>
 
 # My Portfolio
+<table border="0">
+ <tr>
+    <td><a href="https://123helpapp.com/"><img src="https://github.com/daboigbae/images/blob/main/FqkzPgzaEAAzTph.jpeg" width="40%" /></a></td>
+    <td><b style="font-size:30px"><a href="https://yourplayerspal.com/"><img src="https://github.com/daboigbae/images/blob/main/FqkzPg0aYAMTxNx.jpeg" width="40%" /> </a></b></td>
+ </tr>
+ <tr>
+    <td>Lorem ipsum ...</td>
+    <td>Lorem ipsum ...</td>
+ </tr>
+</table>
 <p align="center">
   <a href="https://123helpapp.com/"><img src="https://github.com/daboigbae/images/blob/main/FqkzPgzaEAAzTph.jpeg" width="40%" /></a><br/>
   <a href="https://yourplayerspal.com/"><img src="https://github.com/daboigbae/images/blob/main/FqkzPg0aYAMTxNx.jpeg" width="40%" /> </a><br/>
