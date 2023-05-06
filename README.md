@@ -27,7 +27,11 @@
 # My Portfolio
 <table border="0">
  <tr>
-    <td><a href="https://123helpapp.com/"><img src="https://github.com/daboigbae/images/blob/main/FqkzPgzaEAAzTph.jpeg" width="40%" /></a></td>
+    <td>
+		<p align="center">
+			<a href="https://123helpapp.com/"><img src="https://github.com/daboigbae/images/blob/main/FqkzPgzaEAAzTph.jpeg" width="40%" /></a>
+		</p>
+	</td>
     <td><b style="font-size:30px"><a href="https://yourplayerspal.com/"><img src="https://github.com/daboigbae/images/blob/main/FqkzPg0aYAMTxNx.jpeg" width="40%" /> </a></b></td>
  </tr>
  <tr>
