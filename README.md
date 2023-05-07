@@ -29,20 +29,25 @@
  <tr>
     <td>
 		<p align="center">
-			<a href="https://123helpapp.com/"><img src="https://github.com/daboigbae/images/blob/main/FqkzPgzaEAAzTph.jpeg" width="40%" /></a>
+			<a href="https://123helpapp.com/"><img src="https://github.com/daboigbae/images/blob/main/FqkzPgzaEAAzTph.jpeg" width="100%" /></a>
 		</p>
 	</td>
-    <td><b style="font-size:30px"><a href="https://yourplayerspal.com/"><img src="https://github.com/daboigbae/images/blob/main/FqkzPg0aYAMTxNx.jpeg" width="40%" /> </a></b></td>
+      <td>
+		<p align="center">
+	  		<a href="https://yourplayerspal.com/"><img src="https://github.com/daboigbae/images/blob/main/FqkzPg0aYAMTxNx.jpeg" width="40%" /> </a><br/>
+		</p>
+	</td>
  </tr>
  <tr>
-    <td>Lorem ipsum ...</td>
-    <td>Lorem ipsum ...</td>
+     <td>
+		<p align="center">
+			<a href="https://sopworks.com/"><img src="https://github.com/daboigbae/images/blob/main/FqkzPg0aYAAXu2J.jpeg" width="40%" /></a><br/>
+		</p>
+	</td>
  </tr>
 </table>
 <p align="center">
   <a href="https://123helpapp.com/"><img src="https://github.com/daboigbae/images/blob/main/FqkzPgzaEAAzTph.jpeg" width="40%" /></a><br/>
-  <a href="https://yourplayerspal.com/"><img src="https://github.com/daboigbae/images/blob/main/FqkzPg0aYAMTxNx.jpeg" width="40%" /> </a><br/>
-  <a href="https://sopworks.com/"><img src="https://github.com/daboigbae/images/blob/main/FqkzPg0aYAAXu2J.jpeg" width="40%" /></a><br/>
 </p> 
 
 ---
