@@ -36,7 +36,7 @@
 		<p align="center">
 	  		<a href="https://yourplayerspal.com/">
 				<img src="https://github.com/daboigbae/images/blob/main/FqkzPg0aYAMTxNx.jpeg" width="100%" />
-				<p>Players Pal: Casino System</p> 
+				<p align="center">Players Pal: Casino System</p> 
 			</a>
 		</p>
 	</td>
