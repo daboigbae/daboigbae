@@ -47,7 +47,8 @@
  <tr>
      <td>
 		<p align="center">
-			<a href="https://sopworks.com/"><img src="https://github.com/daboigbae/images/blob/main/FqkzPg0aYAAXu2J.jpeg" width="100%" /></a><br/>
+			<img src="https://github.com/daboigbae/images/blob/main/FqkzPg0aYAAXu2J.jpeg" width="100%" />
+			<a href="https://sopworks.com/"><p align="center">SOP: Enterprise Logistics System</p></a>
 		</p>
 	</td>
  </tr>
