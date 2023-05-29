@@ -37,10 +37,8 @@
 	</td>
       <td>
 		<p align="center">
-	  		<a href="https://yourplayerspal.com/">
-				<img src="https://github.com/daboigbae/images/blob/main/FqkzPg0aYAMTxNx.jpeg" width="100%" />
-				<p align="center">Players Pal: Casino System</p> 
-			</a>
+			<img src="https://github.com/daboigbae/images/blob/main/FqkzPg0aYAMTxNx.jpeg" width="100%" />
+			<p align="center"><a href="https://yourplayerspal.com/">Players Pal: Casino System</a><p> 
 		</p>
 	</td>
  </tr>
