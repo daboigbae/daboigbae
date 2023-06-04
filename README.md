@@ -29,10 +29,8 @@
  <tr>
     <td>
 		<p align="center">
-			<a href="https://123helpapp.com/">
-				<img src="https://github.com/daboigbae/images/blob/main/FqkzPgzaEAAzTph.jpeg" width="100%" />
-				<p align="center">123 Help App: Home Emergency Service Finder</p> 
-			</a>
+			<img src="https://github.com/daboigbae/images/blob/main/FqkzPgzaEAAzTph.jpeg" width="100%" />
+			<p align="center"><a href="https://123helpapp.com/">123 Help App: Home Emergency Service Finder</a></p>
 		</p>
 	</td>
       <td>
