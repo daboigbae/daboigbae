@@ -33,12 +33,12 @@
 			<p align="center"><a href="https://123helpapp.com/">123 Help App: Home Emergency Service Finder</a></p>
 		</p>
 	</td>
-      <td>
+	<!--<td>-->
 		<p align="center">
 			<img src="https://github.com/daboigbae/images/blob/main/FqkzPg0aYAMTxNx.jpeg" width="100%" />
 			<p align="center"><a href="https://yourplayerspal.com/">Players Pal: Casino System</a><p> 
 		</p>
-	</td>
+	<!--</td>-->
  </tr>
  <tr>
      <td>
