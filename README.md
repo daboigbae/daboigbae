@@ -33,7 +33,7 @@
 			<p align="center"><a href="https://123helpapp.com/">123 Help App: Home Emergency Service Finder</a></p>
 		</p>
 	</td>
-	<td colspan="2">
+	<td>
 		<p align="center">
 			<img src="https://github.com/daboigbae/images/blob/main/FqkzPg0aYAMTxNx.jpeg" width="100%" />
 			<p align="center"><a href="https://yourplayerspal.com/">Players Pal: Casino System</a><p> 
@@ -41,7 +41,7 @@
 	</td>
  </tr>
  <tr>
-     <td>
+     <td colspan="2">
 		<p align="center">
 			<img src="https://github.com/daboigbae/images/blob/main/FqkzPg0aYAAXu2J.jpeg" width="100%" />
 			<p align="center"><a href="https://sopworks.com/">SOP: Enterprise Logistics System</a></p>
