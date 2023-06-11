@@ -43,7 +43,7 @@
  <tr>
      <td colspan="2">
 		<p align="center">
-			<img src="https://github.com/daboigbae/images/blob/main/FqkzPg0aYAAXu2J.jpeg" width="100%" />
+			<img src="https://github.com/daboigbae/images/blob/main/FqkzPg0aYAAXu2J.jpeg" width="50%" />
 			<p align="center"><a href="https://sopworks.com/">SOP: Enterprise Logistics System</a></p>
 		</p>
 	</td>
