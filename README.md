@@ -1,4 +1,4 @@
-<p align="center">
+📚<p align="center">
   <a href="#"><img width="175px" height="auto" src="https://img.seadn.io/files/68a331652d4986e1ce5428fc2db6f66a.png?fit=max&w=600" /></a>
 </p>
 <h3 align="center">Hi there, I'm gbae <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>
@@ -6,9 +6,10 @@
 
 <p align="center">
   📱<a href="https://digitalartdealers.net/bingo/">Download my app Bingo for AI-powered proposal writing!</a>📱<br/>
-  👩‍💻<a href="https://www.upwork.com/freelancers/~015773f64f7207d879"> 1900+ hours on UpWork</a>👩‍💻<br/>
+  👩‍💻<a href="https://www.upwork.com/freelancers/~015773f64f7207d879"> 2200+ hours on UpWork</a>👩‍💻<br/>
   🐦<a href="https://twitter.com/daboigbae"> Follow me on Twitter </a>🐦<br/>
   ⭐<a href="https://github.com/daboigbae/react-native-template"> Star my react native template </a>⭐<br/>
+  📖<a href="https://digitalartdealers.net/blog/"> Visit my blog to become a better programmer </a>📖<br/>
 </p>
 
 # What people have said about working with me 
