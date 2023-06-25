@@ -56,8 +56,8 @@
  <tr>
     <td>
 		<p align="center">
-			<img src="https://github.com/daboigbae/images/blob/main/FqkzPgzaEAAzTph.jpeg" width="100%" />
-			<p align="center"><a href="https://123helpapp.com/">123 Help App: Home Emergency Service Finder</a></p>
+			<img src="https://github.com/daboigbae/images/blob/main/why-business-need-apps.webp" width="100%" />
+			<p align="center"><a href="https://digitalartdealers.net/blog/why-businesses-need-a-mobile-app-unpacking-the-benefits-of-mobile-app-development/">Why Businesses Need A Mobile App: Unpacking The Benefits Of Mobile App Development 📱💼</a></p>
 		</p>
 	</td>
 	<td>
