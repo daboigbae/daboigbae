@@ -62,8 +62,8 @@
 	</td>
 	<td>
 		<p align="center">
-			<img src="https://github.com/daboigbae/images/blob/main/FqkzPg0aYAMTxNx.jpeg" width="100%" />
-			<p align="center"><a href="https://yourplayerspal.com/">Players Pal: Casino System</a><p> 
+			<img src="https://github.com/daboigbae/images/blob/main/version-check-in-react-native.webp" width="100%" />
+			<p align="center"><a href="https://digitalartdealers.net/blog/learn-react-native-app-version-check/">📚Learn React Native — App Version Check 📱</a><p> 
 		</p>
 	</td>
  </tr>
