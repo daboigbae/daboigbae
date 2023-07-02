@@ -68,9 +68,15 @@
 	</td>
  </tr>
  <tr>
-     <td>
+    <td>
 		<p align="center">
-			<img src="https://github.com/daboigbae/images/blob/main/FqkzPg0aYAAXu2J.jpeg" width="100%" />
+			<img src="https://github.com/daboigbae/images/blob/main/react-native-and-redux.webp" width="100%" />
+			<p align="center"><a href="https://digitalartdealers.net/blog/using-redux-with-react-native/">📱React Native — Handling state management with React Redux 📝</a></p>
+		</p>
+	</td>
+	<td>
+		<p align="center">
+			<img src="https://github.com/daboigbae/images/blob/main/making-a-react-native-lib.webp" width="100%" />
 			<p align="center"><a href="https://sopworks.com/">SOP: Enterprise Logistics System</a></p>
 		</p>
 	</td>
