@@ -77,7 +77,7 @@
 	<td>
 		<p align="center">
 			<img src="https://github.com/daboigbae/images/blob/main/making-a-react-native-lib.webp" width="100%" />
-			<p align="center"><a href="https://sopworks.com/">SOP: Enterprise Logistics System</a></p>
+			<p align="center"><a href="https://digitalartdealers.net/blog/how-to-make-a-react-native-component-library-using-typescript-storybook-and-rollup/">How To Make A React Native Component Library Using TypeScript, Storybook, And Rollup</a></p>
 		</p>
 	</td>
  </tr>
