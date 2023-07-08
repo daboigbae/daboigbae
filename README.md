@@ -82,7 +82,7 @@
 	</td>
  </tr>
 </table>
-<a href="https://digitalartdealers.net/blog">View All Blogs</a>
+<p align="center"><a href="https://digitalartdealers.net/blog">View All Blogs</a></p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=daboigbae&icon=0&color=0)](https://visitcount.itsvg.in)
