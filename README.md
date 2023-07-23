@@ -6,7 +6,6 @@
 
 <p align="center">
   🐦<a href="https://twitter.com/daboigbae"> Follow me on Twitter </a>🐦<br/>
-  🧵<a href="https://www.threads.net/@daboigbae"> Follow me on Threads </a>🧵<br/>
   📖<a href="https://digitalartdealers.net/blog/"> Visit my blog to become a better programmer </a>📖<br/>
   👩‍💻<a href="https://www.upwork.com/freelancers/~015773f64f7207d879"> 2300+ hours on UpWork </a>👩‍💻<br/>
   ⭐<a href="https://github.com/daboigbae/react-native-template"> Star my react native template </a>⭐<br/>
