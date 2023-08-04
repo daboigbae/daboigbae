@@ -23,7 +23,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=daboigbae&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=daboigbae&theme=radical&hide_border=false)<br/>
 
-# 🖼️ My Portfolio:
+# 🖼️ Some Apps I've Made:
 <table border="0">
  <tr>
     <td>
@@ -48,39 +48,6 @@
 	</td>
  </tr>
 </table>
-
-# 📚 My Blog Posts:
-<table border="0">
- <tr>
-    <td>
-		<p align="center">
-			<img src="https://github.com/daboigbae/images/blob/main/why-business-need-apps.webp" width="100%" />
-			<p align="center"><a href="https://digitalartdealers.net/blog/why-businesses-need-a-mobile-app-unpacking-the-benefits-of-mobile-app-development/">Why Businesses Need A Mobile App: Unpacking The Benefits Of Mobile App Development 📱💼</a></p>
-		</p>
-	</td>
-	<td>
-		<p align="center">
-			<img src="https://github.com/daboigbae/images/blob/main/version-check-in-react-native.webp" width="100%" />
-			<p align="center"><a href="https://digitalartdealers.net/blog/learn-react-native-app-version-check/">📚Learn React Native — App Version Check 📱</a><p> 
-		</p>
-	</td>
- </tr>
- <tr>
-    <td>
-		<p align="center">
-			<img src="https://github.com/daboigbae/images/blob/main/react-native-and-redux.webp" width="100%" />
-			<p align="center"><a href="https://digitalartdealers.net/blog/using-redux-with-react-native/">📱React Native — Handling state management with React Redux 📝</a></p>
-		</p>
-	</td>
-	<td>
-		<p align="center">
-			<img src="https://github.com/daboigbae/images/blob/main/making-a-react-native-lib.webp" width="100%" />
-			<p align="center"><a href="https://digitalartdealers.net/blog/how-to-make-a-react-native-component-library-using-typescript-storybook-and-rollup/">How To Make A React Native Component Library Using TypeScript, Storybook, And Rollup</a></p>
-		</p>
-	</td>
- </tr>
-</table>
-<p align="center"><a href="https://digitalartdealers.net/blog">View All Blogs</a></p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=daboigbae&icon=0&color=0)](https://visitcount.itsvg.in)
