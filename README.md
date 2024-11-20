@@ -5,7 +5,6 @@
 </h3>
 
 <p align="center">
-  🤣<a href="https://twitter.com/daboigbae">Want programming memes? Follow my Twitter</a>🤣<br/>
   ⭐<a href="https://github.com/daboigbae/react-native-template"> Star my react native template </a>⭐<br/>
 </p>
 
