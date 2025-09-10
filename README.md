@@ -1,17 +1,16 @@
 <p align="center">
   <a href="#"><img width="175px" height="auto" src="https://github.com/daboigbae/images/blob/main/avatar_gabe.JPG?fit=max&w=600" /></a>
 </p>
-<h3 align="center">Hi there, we are Digital Art Dealers <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>
+<h3 align="center">Hi there, I'm gabe <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>
 </h3>
 
 <p align="center">
   ⭐<a href="https://github.com/daboigbae/react-native-template"> Star my react native template </a>⭐<br/>
 </p>
 
-# What people have said about working with us
+# What people have said about working with me
   <p><i>⭐⭐⭐⭐⭐ "Gabe was incredible. He went above and beyond. Looking forward to working with him more!"</i></p>
   <p><i>⭐⭐⭐⭐⭐ "Have hired Gabe multiple times for cross platform app work (ios and android) and each time has been terrific. He is good at estimating the work, he sticks to time tables, is responsive to client requests and understands both the technical requirements and the user interface requirements well"</i></p>
-  <p><i>⭐⭐⭐⭐⭐ "Gabe has been an MVP candidate from day 1 at Journey! He's an exceptionally talented engineer, a natural leader, and equally important - a geniunely nice and fun guy"</i></p>
   <p><i>⭐⭐⭐⭐⭐ "Gabe has become an invaluable member of our team and continues to produce high-quality work on a consistent basis. Gabe's communication, dedication, and ability to meet deadlines are all top-notch. He's a great guy and a pleasure to work with, and I hope to continue working with him well into the future."</i></p>
   
 # 💻 My Tech Stack:
@@ -23,5 +22,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=daboigbae&icon=0&color=0)](https://visitcount.itsvg.in)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@daboigbae) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-higareda-70971259/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/daboigbae) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-higareda-70971259/) [!
