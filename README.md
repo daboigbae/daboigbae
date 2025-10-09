@@ -6,6 +6,7 @@
 
 <p align="center">
   ⭐<a href="https://github.com/daboigbae/react-native-template"> Star my react native template </a>⭐<br/>
+  🎳<a href="https://bowlingalleys.io"> View project: BowlingAlleys.io </a>🎳<br/>
 </p>
 
 # 📊 GitHub Stats:
