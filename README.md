@@ -2,6 +2,10 @@
 </h3>
 
 <p align="center">
+  <a href="#"><img width="175px" height="auto" src="https://github.com/daboigbae/images/blob/main/avatar_gabe.JPG?fit=max&w=600" /></a><br/>
+</p>
+
+<p align="center">
   ⭐<a href="https://github.com/daboigbae/react-native-template"> Star my react native template </a>⭐<br/>
   🎳<a href="https://bowlingalleys.io"> View project: BowlingAlleys.io </a>🎳<br/>
 </p>
