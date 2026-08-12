@@ -2,11 +2,6 @@
 </h3>
 
 <p align="center">
-  <a href="#"><img width="175px" height="auto" src="https://github.com/daboigbae/images/blob/main/avatar_gabe.JPG?fit=max&w=600" /></a><br/>
-  <a href="linkedin.com/in/gabriel-higareda"> <img width="50px" height="auto" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-</p>
-
-<p align="center">
   ⭐<a href="https://github.com/daboigbae/react-native-template"> Star my react native template </a>⭐<br/>
   🎳<a href="https://bowlingalleys.io"> View project: BowlingAlleys.io </a>🎳<br/>
 </p>
